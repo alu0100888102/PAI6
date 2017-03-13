@@ -11,7 +11,7 @@ public class JuegoGUI extends JFrame {
 		NumberFormat formater = NumberFormat.getNumberInstance(); 
 		formater.setMaximumIntegerDigits(3);
 		add(new JFormattedTextField(formater));
-		add(new JButton("¡Otra vez!"));
+		add(new JButton("Comprobar respuesta"));
 		this.setSize(400,300);
 		this.setResizable(false);
 		this.setTitle("Adivina el Número");
