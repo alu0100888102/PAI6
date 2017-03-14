@@ -11,7 +11,7 @@ public class SumaGUI extends JFrame {
 		add(new JTextField());
 		this.setSize(400,300);
 		this.setResizable(false);
-		this.setTitle("Adivina el Número");
+		this.setTitle("Suma dos numeros");
 		this.setLocationRelativeTo(null);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setVisible(true);

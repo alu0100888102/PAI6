@@ -9,7 +9,7 @@ public class DetectorGUI extends JFrame {
 		this.add(new LogPanel());
 		this.setSize(400,300);
 		this.setResizable(false);
-		this.setTitle("Adivina el Número");
+		this.setTitle("Detector de duplicadas");
 		this.setLocationRelativeTo(null);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setVisible(true);
