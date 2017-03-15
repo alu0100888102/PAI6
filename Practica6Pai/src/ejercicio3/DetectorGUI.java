@@ -1,3 +1,14 @@
+/**
+ * PRACTICA 5, EJERCICIO 3:
+ * 
+ * GUI sin inteligencia para el ejercicio 3.
+ * 
+ * @author alu0100888102
+ * @version 1.0
+ * Ángel Hamilton Lopez
+ * alu0100888102@ull.es
+ */
+
 package ejercicio3;
 
 import javax.swing.*;

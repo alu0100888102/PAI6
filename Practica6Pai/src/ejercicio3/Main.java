@@ -1,3 +1,14 @@
+/**
+ * PRACTICA 5, EJERCICIO 3:
+ * 
+ * Escribir un programa que lea palabras de un fichero de texto y muestre por pantalla en orden alfabetico inverso todas las palabras que no estén duplicadas. 
+ * 
+ * @author alu0100888102
+ * @version 1.0
+ * Ángel Hamilton Lopez
+ * alu0100888102@ull.es
+ */
+
 package ejercicio3;
 
 import java.io.*;

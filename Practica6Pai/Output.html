@@ -1,0 +1,11 @@
+<b> package </b>ejercicio2 ; 
+<b> import </b>java . io . File ; 
+<b> public </b><b> class </b>Main { 
+   <b> public </b><b> static </b><b> void </b>main ( String args [ ] ) { 
+      File input = <b> new </b>File ( args [ 0 ] ) ; 
+      File output = <b> new </b>File ( args [ 1 ] ) ; 
+      Java2Html analizador = <b> new </b>Java2Html ( ) ; 
+      analizador . analize ( input ) ; 
+      analizador . writeToHtml ( output ) ; 
+      }
+   } }
